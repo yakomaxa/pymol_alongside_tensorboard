@@ -8,3 +8,10 @@ Visualize PDB structure using Tensorboard mesh (Very experimental)
 * PyMOL dumps DAE file of the visualization
 * DAE file is translated so that it can be read by Tensorboard mesh
 * Tensorboard mesh display the structure
+
+# Requirement
+
+* pycollada
+* torch
+* tb-nightly
+* pymol
