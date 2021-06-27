@@ -1,2 +1,2 @@
 # pymol_alongside_tensorboard
-Visualize structure using Tensorboard mesh
+Visualize PDB structure using Tensorboard mesh
