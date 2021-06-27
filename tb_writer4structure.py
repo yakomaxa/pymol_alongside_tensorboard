@@ -10,8 +10,8 @@ from torch.utils.tensorboard import SummaryWriter as sw
 #https://pytorch.org/docs/stable/tensorboard.html
 #from tensorboard.plugins.mesh import summary as mesh_summary
 #summary = mesh_summary.op('point_cloud', vertices=point_cloud, colors=point_colors)
+
 import sys
-#sys.path.append("/Users/sakuma/mybin/pymoldssp/lib/python3.6/site-packages/")
 from pymol import cmd
 #from psico.editing import dssp
 from collada import Collada as Cld
