@@ -16,4 +16,6 @@ Visualize PDB structure using Tensorboard mesh (Very experimental)
 * tb-nightly
 * pymol
 
+＃ License
+
 MIT license
