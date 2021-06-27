@@ -156,5 +156,5 @@ def addstructure(daefile=None,writer=None,step=None):
         }
     }
 
-    writer.add_mesh('my_mesh', vertices=vertices, colors=colors, faces=faces,global_step=step)
+    writer.add_mesh('my_mesh', vertices=vertices, colors=colors, faces=faces, global_step=step, config_dict=config_dict)
     #writer.close()
